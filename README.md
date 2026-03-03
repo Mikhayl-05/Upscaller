@@ -12,13 +12,17 @@
 ```
 ===========================================================
 
-Gantengs adalah aplikasi AI Image Upscaler yang berfungsi untuk meningkatkan resolusi dan ketajaman foto (menjadi HD) secara otomatis menggunakan teknologi AI (Real-ESRGAN).
+Gantengs adalah aplikasi AI Image Upscaler yang berfungsi untuk meningkatkan resolusi 
+dan ketajaman foto (menjadi HD) secara otomatis menggunakan teknologi AI (Real-ESRGAN).
 
-Cara kerja: AI ini tidak sekadar memperbesar pixel (yang biasanya bikin foto pecah), tapi "menebak" dan menggambar ulang detail yang hilang sehingga foto tetap tajam meski ukurannya diperbesar 4x lipat.
+Cara kerja: AI ini tidak sekadar memperbesar pixel (yang biasanya bikin foto pecah), 
+tapi "menebak" dan menggambar ulang detail yang hilang sehingga foto tetap tajam meski ukurannya diperbesar 4x lipat.
 
 Model AI,Kegunaan Terbaik
-x4plus,"Foto dunia nyata, pemandangan, atau objek dengan tekstur kompleks."
-x4plus-anime,"Gambar 2D, ilustrasi, kartun, atau anime (fokus pada garis yang bersih)."
+
+x4plus >> Foto dunia nyata, pemandangan, atau objek dengan tekstur kompleks.
+
+x4plus-anime >> Gambar 2D, ilustrasi, kartun, atau anime (fokus pada garis yang bersih).
 
 -----------------------------------------------------------
 📦 ISI FOLDER INI (JANGAN DIPISAH!)
