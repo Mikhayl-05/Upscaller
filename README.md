@@ -15,7 +15,7 @@
 Gantengs adalah aplikasi AI Image Upscaler yang berfungsi untuk meningkatkan resolusi dan
 ketajaman foto (menjadi HD) secara otomatis menggunakan teknologi AI (Real-ESRGAN). 🤖📸🎨
 
-![Deskripsi Gambar](Gantengs/asset/Beter-Anime.png)
+<img src="Gantengs/asset/Beter-Anime.png" alt="Deskripsi Gambar" width="500">
 
 Cara kerja: AI ini tidak sekadar memperbesar pixel (yang biasanya bikin foto pecah), 
 tapi "menebak" dan menggambar ulang detail yang hilang sehingga foto tetap tajam meski ukurannya diperbesar 4x lipat. 🔍✨💎
