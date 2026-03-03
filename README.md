@@ -44,5 +44,5 @@ Contact:
 
 -Whatsapp: 085398285037
 
-🇮🇩Created by Indonesian student-youths🇮🇩
+Created by Indonesian student-youth
 ===========================================================
