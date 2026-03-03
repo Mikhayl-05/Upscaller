@@ -7,17 +7,6 @@ Aplikasi ini didesain untuk memperbesar resolusi foto kamu
 menjadi lebih tajam (HD) menggunakan teknologi AI (Real-ESRGAN).
 
 -----------------------------------------------------------
-🚫 PERINGATAN KERAS (HAK CIPTA)
------------------------------------------------------------
-* DILARANG KERAS menyebarluaskan, memodifikasi, atau 
-  membagikan source code (kode sumber) aplikasi ini tanpa 
-  izin tertulis dari @mhmyl_.
-* Aplikasi ini hanya diperuntukkan untuk PENGGUNAAN PRIBADI 
-  (Personal Use Only).
-* Segala bentuk redistribusi atau membagikan kode tanpa kredit atau izin 
-  adalah pelanggaran hak cipta.
-
------------------------------------------------------------
 📦 ISI FOLDER INI (JANGAN DIPISAH!)
 -----------------------------------------------------------
 Agar aplikasi berjalan lancar, pastikan 3 komponen ini 
