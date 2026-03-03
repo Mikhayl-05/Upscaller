@@ -54,8 +54,8 @@ akan bisa menemukan mesin AI-nya.
 📝 KONTAK & CREDIT
 -----------------------------------------------------------
 Dibuat oleh: @mhmyl_
-Instagram: https://www.instagram.com/mhmyl_
-
+Instagram: [https://www.instagram.com/mhmyl_
+](https://www.instagram.com/mhmyl_)
 Contact:
 
 -Instagram: @mhmyl_
