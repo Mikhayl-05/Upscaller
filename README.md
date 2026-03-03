@@ -1,4 +1,4 @@
-# 🚀 AI IMAGE UPSCALER
+# 🚀 Gantengs - AI IMAGE UPSCALER
 
 ```text
   ░██████                           ░██                                                
