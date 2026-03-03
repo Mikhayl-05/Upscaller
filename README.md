@@ -37,8 +37,11 @@ akan bisa menemukan mesin AI-nya.
 -----------------------------------------------------------
 Dibuat oleh: @mhmyl_
 Instagram: https://www.instagram.com/mhmyl_
+
 Contact:
+
 -Instagram: @mhmyl_
+
 -Whatsapp: 085398285037
 
 "Strictly Prohibited to Redistribute This Code"
