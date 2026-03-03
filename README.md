@@ -53,12 +53,11 @@ akan bisa menemukan mesin AI-nya.
 -----------------------------------------------------------
 📝 KONTAK & CREDIT
 -----------------------------------------------------------
-Dibuat oleh: @mhmyl_
-Instagram: [https://www.instagram.com/mhmyl_
-](https://www.instagram.com/mhmyl_)
+Dibuat oleh: Mikhayl
+
 Contact:
 
--Instagram: @mhmyl_
+-Instagram: [@mhmyl_](https://www.instagram.com/mhmyl_)
 
 -Whatsapp: 085398285037
 
