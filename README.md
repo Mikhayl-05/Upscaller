@@ -20,11 +20,9 @@ tapi "menebak" dan menggambar ulang detail yang hilang sehingga foto tetap tajam
 
 Model AI & Kegunaan Terbaik: 🛠️💡
 
-<img src="asset/Beter-Real.png" alt="Deskripsi Gambar" width="500">
-🖼️ x4plus ➡️ Foto dunia nyata, pemandangan, atau objek dengan tekstur kompleks.
+<img src="asset/Beter-Real.png" alt="🖼️ x4plus ➡️ Foto dunia nyata, pemandangan, atau objek dengan tekstur kompleks." width="500">
 
-<img src="asset/Beter-Anime.png" alt="Deskripsi Gambar" width="500">
-🎨 x4plus-anime ➡️ Gambar 2D, ilustrasi, kartun, atau anime (fokus pada garis yang bersih).
+<img src="asset/Beter-Anime.png" alt="🎨 x4plus-anime ➡️ Gambar 2D, ilustrasi, kartun, atau anime (fokus pada garis yang bersih)." width="500">
 
 -----------------------------------------------------------
 📦 ISI FOLDER INI (JANGAN DIPISAH!)
