@@ -44,5 +44,5 @@ Contact:
 
 -Whatsapp: 085398285037
 
-"Strictly Prohibited to Redistribute This Code"
+🇮🇩Created by Indonesian student-youths🇮🇩
 ===========================================================
