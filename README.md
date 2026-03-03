@@ -56,6 +56,12 @@ akan bisa menemukan mesin AI-nya.
 5. Setelah 100%, gunakan tombol "Bandingkan" untuk melihat 
    hasil Before vs After secara interaktif.
 
+<div align="center">
+  <video src="https://github.com/Mikhayl-05/Gantengs/blob/main/asset/tutor.mp4" width="400" controls muted autoplay loop>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 -----------------------------------------------------------
 📝 KONTAK & CREDIT
 -----------------------------------------------------------
